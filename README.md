@@ -6,17 +6,21 @@ Output example:
      alt="AIRq arch"
      style="" />
 
-Architecture 
+## Architecture 
 
 <img src="media/airq.png"
      alt="AIRq arch"
      style="" />
 
-Schema/Circult
+## Schema/Circult
 <img src="media/circuit.png"
      alt="AIRq arch"
      style="" />
+## Enclosure model
 
+<img src="media/enclosure_model.png"
+     alt="AIRq arch"
+     style="" />
 
 ## Bootstrap the system
 
