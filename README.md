@@ -1,7 +1,8 @@
 # airq
 Advanced Environment Analysis IoT
 
-###Bootstrap the system
+## Bootstrap the system
+
 **Minimal**
 * Turn on AIRq module
 * Turn on AIRq gate
@@ -9,12 +10,13 @@ Advanced Environment Analysis IoT
 
 **MQTT**
 * Install and run mosquitto with `apt-get install mosquitto`
-* Setup local wifi ssid/pwd abd mosquito ip/port for IoT Gate
+* Setup local wifi ssid/pwd and mosquito ip/port for IoT Gate
 * Data is available in external network with MQTT topics
 
 **Observation pipeline**
 * Download and install Influx Telegraf
 * Run influxdb `docker run --env-file=./env.sh --net=host -p 8086:8086 bitnami/influxdb:latest`
+
 For `env.sh` you can put additional configuration, for example
 ```
 INFLUXDB_HTTP_AUTH_ENABLED=false
