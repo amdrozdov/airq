@@ -1,5 +1,16 @@
-# airq
+# AIRq
 Advanced Environment Analysis IoT
+
+Output example:
+<img src="media/airq.png"
+     alt="AIRq arch"
+     style="" />
+
+Architecture 
+
+<img src="media/airq.png"
+     alt="AIRq arch"
+     style="" />
 
 ## Bootstrap the system
 
