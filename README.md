@@ -13,7 +13,7 @@ Architecture
      style="" />
 
 Schema/Circult
-<img src="media/airq.png"
+<img src="media/circuit.png"
      alt="AIRq arch"
      style="" />
 
